@@ -4,7 +4,7 @@
 import sys,pyperclip
 
 #this dictionary save the site name and password 
-my_passwords = {'twitter':'326737gfdj%yy','facebook':'gdfwyyuwetgye536','github':'UIIOiueuh7847hf&*j','stackoverflow':'ioOIJo**&Jfj89j', 'codewars':'gjdfi!)E46^7DFRT'}
+my_passwords = {'twitter':'326737gfdj%yy','facebook':'gdfwyyuwetgye536','github':'UIIOiueuh7847hf&*j','stackoverflow':'ioOIJo**&Jfj89j', 'codewars':'gjdfi!)E46^7DFRT', 'instagram':'ashSAH^hhs'}
 
 
 if len(sys.argv) < 2:
